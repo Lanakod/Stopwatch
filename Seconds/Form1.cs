@@ -15,7 +15,7 @@ namespace Seconds
     {
         DateTime time = new DateTime();
         int rings = 1;
-        string path = Application.StartupPath + $"\\{DateTime.Now.ToString("dd-mm-yyyy mm-ss")}.log";
+        string path = Application.StartupPath + $"\\{DateTime.Now.ToString("dd-MM-yyyy HH-mm")}.log";
 
         public Form1()
         {
