@@ -1,0 +1,10 @@
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.csprojAssemblyReference.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.Form1.resources
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Stopwatch.exe.config
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Stopwatch.exe
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Stopwatch.pdb
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.exe
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Stopwatch.pdb

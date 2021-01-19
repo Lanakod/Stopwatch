@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{E9CCC049-F89A-4A38-84AD-BEB93151B1B3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Seconds</RootNamespace>
-    <AssemblyName>Seconds</AssemblyName>
+    <RootNamespace>Stopwatch</RootNamespace>
+    <AssemblyName>Stopwatch</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
