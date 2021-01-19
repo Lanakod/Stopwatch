@@ -1,0 +1,10 @@
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Seconds.exe.config
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Seconds.exe
+C:\Users\lanak\source\repos\Seconds\Seconds\bin\Debug\Seconds.pdb
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.csprojAssemblyReference.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.Form1.resources
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.Properties.Resources.resources
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.csproj.GenerateResource.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.csproj.CoreCompileInputs.cache
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.exe
+C:\Users\lanak\source\repos\Seconds\Seconds\obj\Debug\Seconds.pdb
